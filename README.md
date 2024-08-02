@@ -1,4 +1,5 @@
 ## My offensive security code library.  
+Note: By using these scripts, you accept any liabilities/consequences. I am not liable for your use of these items. You should only be used on your systems or systems with express written consent from the owner. 
 
 
 #### [ip_int](https://github.com/josh-morin/Offensive/blob/main/ip_int.py)
@@ -42,3 +43,10 @@ Output example:
 | 192.168.237.134 |  22  |      SSH-2.0-OpenSSH_8.0       |
 +-----------------+------+--------------------------------+
 ```
+
+
+
+
+
+
+
